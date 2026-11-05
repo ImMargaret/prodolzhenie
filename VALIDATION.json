@@ -1,0 +1,28 @@
+{
+  "pages": 10,
+  "figma_frames": 30,
+  "figma_nodes": 2116,
+  "local_asset_links": "passed",
+  "javascript_syntax": "passed",
+  "figma_local_structure": "passed",
+  "puzzle_solution_and_save": "passed",
+  "three_protocol_choices_and_changed_ending": "passed",
+  "json_download": "passed",
+  "audio_start_button": "passed",
+  "camera_free_mode": "passed",
+  "standalone_navigation_and_embedded_images": "passed",
+  "mobile_widths_px": [
+    390,
+    375
+  ],
+  "three_geometry": {
+    "meshes": 21,
+    "vertices": 17512,
+    "finite_vertices": true,
+    "model_toggle": true,
+    "cleanup": true
+  },
+  "visual_webgl_check": false,
+  "execution_in_real_figma": false,
+  "pixel_exact_reference_match_verified": false
+}
